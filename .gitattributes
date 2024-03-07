@@ -1,2 +1,5 @@
 C:/Users/VRLABS/Documents/GitHub/pelt0831/NitroEngine/Assets/CartoonTracksPack1/Track1/Textures/road.psd filter=lfs diff=lfs merge=lfs -text
 C:/Users/VRLABS/Documents/GitHub/pelt0831/NitroEngine/Assets/CartoonTracksPack1/Track1/Textures/road_normal.png filter=lfs diff=lfs merge=lfs -text
+*.psd filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
